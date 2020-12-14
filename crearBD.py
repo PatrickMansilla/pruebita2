@@ -5,7 +5,7 @@ Created on Sun Dec 13 20:20:59 2020
 @author: osito
 """
 
-
+#Diana estuvo aqui
 # Creamos BD Biblioteca
 
 import sqlite3
